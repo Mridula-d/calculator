@@ -1,6 +1,3 @@
-Here’s a neat **GitHub project description** you can use for your calculator program 👇
-
----
 
 # 🧮 Simple Calculator (Python)
 
